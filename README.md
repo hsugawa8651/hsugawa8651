@@ -5,6 +5,7 @@
 ### Solid State Physics
 - [BoltzTraP.jl](https://github.com/hsugawa8651/BoltzTraP.jl) — Band structure interpolation and thermoelectric transport coefficients [![version](https://juliahub.com/docs/General/BoltzTraP/stable/version.svg)](https://juliahub.com/ui/Packages/General/BoltzTraP)
 - [PhoXonic.jl](https://github.com/hsugawa8651/PhoXonic.jl) — Phononic and photonic crystal band structure [![version](https://juliahub.com/docs/General/PhoXonic/stable/version.svg)](https://juliahub.com/ui/Packages/General/PhoXonic)
+- [EmpiricalTightBinding.jl](https://github.com/hsugawa8651/EmpiricalTightBinding.jl) — Empirical tight-binding band structure for semiconductors [![version](https://juliahub.com/docs/General/EmpiricalTightBinding/stable/version.svg)](https://juliahub.com/ui/Packages/General/EmpiricalTightBinding)
 - [ExtendedKronigPennyMatrix.jl](https://github.com/hsugawa8651/ExtendedKronigPennyMatrix.jl) — Kronig-Penney model Hamiltonian [![version](https://juliahub.com/docs/General/ExtendedKronigPennyMatrix/stable/version.svg)](https://juliahub.com/ui/Packages/General/ExtendedKronigPennyMatrix)
 - [GreenFunc.jl](https://github.com/hsugawa8651/GreenFunc.jl) — Green's function toolbox for many-body physics (fork)
 
@@ -13,6 +14,7 @@
 - [PhaseFields.jl](https://github.com/hsugawa8651/PhaseFields.jl) — Phase-field simulations [![version](https://juliahub.com/docs/General/PhaseFields/stable/version.svg)](https://juliahub.com/ui/Packages/General/PhaseFields)
 - [OrnsteinZernike.jl](https://github.com/hsugawa8651/OrnsteinZernike.jl) — Ornstein-Zernike equation solver for liquid state theory (fork)
 - [SunlightHNC.jl](https://github.com/hsugawa8651/SunlightHNC.jl) — HNC integral equation code [![version](https://juliahub.com/docs/General/SunlightHNC/stable/version.svg)](https://juliahub.com/ui/Packages/General/SunlightHNC)
+- [YamDB.jl](https://github.com/hsugawa8651/YamDB.jl) — YAML-based thermodynamic database toolkit [![version](https://juliahub.com/docs/General/YamDB/stable/version.svg)](https://juliahub.com/ui/Packages/General/YamDB)
 
 ### Numerical Methods
 - [FCCQuad.jl](https://github.com/hsugawa8651/FCCQuad.jl) — Filon-Clenshaw-Curtis quadrature (fork)
